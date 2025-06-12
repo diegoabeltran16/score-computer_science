@@ -71,3 +71,4 @@ Este enfoque biosemiótico combina **estructura, simbolismo y ejecución**, perm
 - [Epigenética computacional](04_Cross_Cutting/Biosemiótica de software/01_epigenetica_computacional.md): cómo se regulan las funciones sin modificar el ADN.
 
 - [Git y reproducción celular](05_Methodology/Biosemiótica de software/01_git_y_reproduccion_celular.md): cómo se hereda, muta y reproduce el código fuente.
+
