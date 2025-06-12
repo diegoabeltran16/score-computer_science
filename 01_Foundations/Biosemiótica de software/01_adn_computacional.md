@@ -72,3 +72,4 @@ Este enfoque biosemiótico combina **estructura, simbolismo y ejecución**, perm
 
 - [Git y reproducción celular](05_Methodology/Biosemiótica de software/01_git_y_reproduccion_celular.md): cómo se hereda, muta y reproduce el código fuente.
 
+
